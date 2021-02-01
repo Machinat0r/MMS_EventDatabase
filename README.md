@@ -2,7 +2,7 @@
 
 
 ###
-已上传爬虫文件SDCSpider.m和SDC_Spider.py
+已上传爬虫文件SDCDownload.m和SDCDownload.py
 这两个文件均是使用https://lasp.colorado.edu/ MMS科学数据中心的接口爬取的
 接口使用说明为https://lasp.colorado.edu/mms/sdc/public/about/how-to/
 ###
