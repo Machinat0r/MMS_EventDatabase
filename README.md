@@ -7,5 +7,5 @@
 接口使用说明为https://lasp.colorado.edu/mms/sdc/public/about/how-to/
 ###
 
-***注意***
+***注意：***
 该网站在中国大陆下载速度极慢，两个爬虫均未设置代理，可先打开vpn后再打开matlab或python进行爬取即可用较快的速度爬取
